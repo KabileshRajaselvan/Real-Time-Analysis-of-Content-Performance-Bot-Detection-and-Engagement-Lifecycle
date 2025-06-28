@@ -107,7 +107,7 @@ This notebook is part of a broader research/academic project that may include:
 ## 👤 Author
 
 **Kabilesh Rajaselvan**
-M.Tech AI – VIT Chennai
+M.Tech Intgrated – VIT Chennai
 GitHub: (https://github.com/KabileshRajaselvan) *
 ---
 
