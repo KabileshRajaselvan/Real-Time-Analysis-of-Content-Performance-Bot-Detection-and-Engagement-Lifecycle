@@ -1,0 +1,8 @@
+{
+  "n_posts": 300,
+  "rule_vs_cluster_agreement": 0.9366666666666666,
+  "rule_based_recall_vs_synthetic_truth": 1.0,
+  "rule_based_precision_vs_synthetic_truth": 0.9,
+  "n_viral_rule_based": 40,
+  "n_viral_true": 36
+}

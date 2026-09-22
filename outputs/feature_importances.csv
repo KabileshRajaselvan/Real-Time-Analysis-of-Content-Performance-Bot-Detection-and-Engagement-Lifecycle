@@ -1,0 +1,9 @@
+feature,importance
+posts_per_day,0.45940072873496757
+account_age_days,0.16691144333643837
+avg_hashtags_per_post,0.09857315898366292
+burstiness,0.08530385752162226
+default_profile_ratio,0.06479624929952427
+posting_interval_cv,0.05452647934126538
+duplicate_content_rate,0.05027599637399363
+follower_following_ratio,0.020212086408525825

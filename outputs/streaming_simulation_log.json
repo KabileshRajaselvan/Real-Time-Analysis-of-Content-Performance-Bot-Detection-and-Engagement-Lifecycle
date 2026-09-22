@@ -1,0 +1,122 @@
+[
+  {
+    "sim_time": 1790067483.4633076,
+    "account_id": "acct_00000",
+    "event_index": 14,
+    "bot_likelihood": 0.9951442720180297
+  },
+  {
+    "sim_time": 1790067485.3191519,
+    "account_id": "acct_00001",
+    "event_index": 14,
+    "bot_likelihood": 0.21354661015195353
+  },
+  {
+    "sim_time": 1790067500.7223563,
+    "account_id": "acct_00002",
+    "event_index": 14,
+    "bot_likelihood": 0.23883297856213126
+  },
+  {
+    "sim_time": 1790067518.075779,
+    "account_id": "acct_00003",
+    "event_index": 14,
+    "bot_likelihood": 0.9901819602720862
+  },
+  {
+    "sim_time": 1790067536.5662239,
+    "account_id": "acct_00004",
+    "event_index": 14,
+    "bot_likelihood": 0.99225763170776
+  },
+  {
+    "sim_time": 1790067575.9830496,
+    "account_id": "acct_00005",
+    "event_index": 14,
+    "bot_likelihood": 0.9964742922831034
+  },
+  {
+    "sim_time": 1790067645.9186118,
+    "account_id": "acct_00006",
+    "event_index": 14,
+    "bot_likelihood": 0.40356360841675293
+  },
+  {
+    "sim_time": 1790067662.7866406,
+    "account_id": "acct_00007",
+    "event_index": 14,
+    "bot_likelihood": 0.7717779366963109
+  },
+  {
+    "sim_time": 1790067683.9911532,
+    "account_id": "acct_00008",
+    "event_index": 14,
+    "bot_likelihood": 0.9944126952851094
+  },
+  {
+    "sim_time": 1790067725.3709095,
+    "account_id": "acct_00009",
+    "event_index": 14,
+    "bot_likelihood": 0.9790474428014576
+  },
+  {
+    "sim_time": 1790067769.4571285,
+    "account_id": "acct_00010",
+    "event_index": 14,
+    "bot_likelihood": 0.9943014306614582
+  },
+  {
+    "sim_time": 1790067910.2489345,
+    "account_id": "acct_00011",
+    "event_index": 14,
+    "bot_likelihood": 0.9878963334006665
+  },
+  {
+    "sim_time": 1790067911.4133337,
+    "account_id": "acct_00012",
+    "event_index": 14,
+    "bot_likelihood": 0.9926091744210014
+  },
+  {
+    "sim_time": 1790067912.757346,
+    "account_id": "acct_00013",
+    "event_index": 14,
+    "bot_likelihood": 0.997469119476912
+  },
+  {
+    "sim_time": 1790067933.5797057,
+    "account_id": "acct_00014",
+    "event_index": 14,
+    "bot_likelihood": 0.20761532651912065
+  },
+  {
+    "sim_time": 1790067952.07073,
+    "account_id": "acct_00015",
+    "event_index": 14,
+    "bot_likelihood": 0.9968607040424772
+  },
+  {
+    "sim_time": 1790067958.3969395,
+    "account_id": "acct_00016",
+    "event_index": 14,
+    "bot_likelihood": 0.9914482347275811
+  },
+  {
+    "sim_time": 1790068001.544672,
+    "account_id": "acct_00017",
+    "event_index": 14,
+    "bot_likelihood": 0.9386926513287409
+  },
+  {
+    "sim_time": 1790068029.3336248,
+    "account_id": "acct_00018",
+    "event_index": 14,
+    "bot_likelihood": 0.9952204541096377
+  },
+  {
+    "sim_time": 1790068109.108466,
+    "account_id": "acct_00019",
+    "event_index": 14,
+    "bot_likelihood": 0.9832825093426177
+  }
+]
